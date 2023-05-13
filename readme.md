@@ -116,9 +116,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij2900&show_icons=true&locale=en&layout=compact" alt="kshitij2900" /></p>
+<div>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij2900&show_icons=true&locale=en&layout=compact" alt="kshitij2900" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij2900&show_icons=true&locale=en" alt="kshitij2900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij2900&" alt="kshitij2900" /></p>
+</div>
