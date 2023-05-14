@@ -36,7 +36,7 @@
 &emsp;
   <a href="https://medium.com/@kshitijgupta2905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kshitijgupta2905" height="30" width="40" /></a>
 &emsp;
-  <a href="https://www.leetcode.com/https://leetcode.com/darklord-2900/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darklord-2900/" height="30" width="40" /></a>
+  <a href="https://leetcode.com/darklord-2900/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darklord-2900/" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ My Skills
