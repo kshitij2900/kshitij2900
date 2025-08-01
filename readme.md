@@ -11,7 +11,7 @@
 </p>
 <img align="right" alt="PAC MAN" width="300" height="300" src="https://andrewmayneblog.files.wordpress.com/2023/03/maze_solution_pacman_pellets.gif?w=740&zoom=2">
 
-- 🔭 I’m currently working and looking to collaborate 👯 on [Supper App](https://github.com/kshitij2900/supper) and [Medossier App](https://github.com/kshitij2900/medossier)
+- 🔭 I’m currently working and looking to collaborate 👯 on [Medossier App](https://github.com/kshitij2900/medossier)
 
 - 🌱 I’m currently learning **CS Fundamentals, DSA**
 
